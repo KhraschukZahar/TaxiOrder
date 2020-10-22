@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970435286900",
+    "firebase_url": "https://taxiorder-f6a18.firebaseio.com",
+    "project_id": "taxiorder-f6a18",
+    "storage_bucket": "taxiorder-f6a18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970435286900:android:946b4835d24d1c118a3e21",
+        "android_client_info": {
+          "package_name": "com.example.taxiorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970435286900-uveo5oi763ebnldp822qrsnk5v42o9of.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taxiorder",
+            "certificate_hash": "054ef021609a5edbd07a29755d3af66b10a96789"
+          }
+        },
+        {
+          "client_id": "970435286900-18dd29ekm3q6c2naeuqkusuccldonmue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMzP2FA3kd-d98XMGU48kc2A5VvcloulI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970435286900-18dd29ekm3q6c2naeuqkusuccldonmue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
